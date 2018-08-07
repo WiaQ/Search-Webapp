@@ -1,6 +1,10 @@
-This is a web application written in python3 that is used to confirm the existence of letters input in a phrase input. And it was written under the guidance of OReilly Head First Python.
+This is a web application written in python3 that is used to confirm the existence of letters input in a phrase input. And it was written 
+under the guidance of OReilly Head First Python.
 
 The code incorporate a connection to MySQL, so that the adminstrator can log the detailed statistics to the backend database.
 Several exceptions are handled in this app to make it more robust.
+
+The "vsearch4web" document is the main body of this app, and others are subprogram to it. To run this web application, you are recommended 
+to install "vsearch" tool using "setup" program, then load other programs to your python IDLE.
 
 Anyway, this is my first github code, and there is still room for me to improve it.
